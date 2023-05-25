@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: gainsboro;
+}
+.head {
+  background-color: rgb(176, 180, 184);
+  font-size: 28pt;
+  text-align: center;
+}
+.a {
+  background-color: rgb(11, 154, 250);
+  line-height: 30px;
+}
+.b {
+  background-color: rgb(37, 168, 255);
+  line-height: 30px;
+}
+.c {
+  background-color: rgb(64, 174, 248);
+  line-height: 30px;
+}
+.d {
+  background-color: rgb(112, 196, 252);
+  line-height: 30px;
+}
+.e {
+  background-color: rgb(128, 202, 252);
+  line-height: 30px;
+}
+.f {
+  background-color: rgb(116, 191, 241);
+  line-height: 30px;
+}
+.g {
+  background-color: rgb(170, 219, 252);
+  line-height: 30px;
+}
+.h {
+  background-color: rgb(61, 182, 91);
+  line-height: 30px;
+}
+.i {
+  background-color: rgb(250, 178, 200);
+  line-height: 30px;
+}
+.j {
+  background-color: rgb(255, 163, 190);
+  line-height: 30px;
+}
+.k {
+  background-color: rgb(255, 145, 178);
+  line-height: 30px;
+}
+.l {
+  background-color: rgb(250, 103, 147);
+  line-height: 30px;
+}
+.m {
+  background-color: rgb(253, 64, 121);
+  line-height: 30px;
+}
+.n {
+  background-color: rgb(250, 42, 104);
+  line-height: 30px;
+}
+.o {
+  background-color: rgb(255, 22, 92);
+  line-height: 30px;
+}
+.p {
+  background-color: rgb(247, 4, 77);
+  line-height: 30px;
+}
